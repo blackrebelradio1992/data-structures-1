@@ -3,7 +3,7 @@ class Linked_list_demo:
     def __init__(self):
         pass
     # insert - add node to beginning (or end)
-    def  insert():
+    def insert():
         pass
     # search - find and return a given node
     def search():

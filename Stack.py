@@ -1,5 +1,6 @@
 ####API####
 class Stack_demo:
+    str_items = []
     def __init__(self,test_string):
         self.test_string = "dufensmertz"
     # push - add item to top
@@ -16,4 +17,8 @@ class Stack_demo:
         pass
     # is_empty - True if no items, False otherwise
     def is_empty():
-        pass
+        if str_items == []:
+            return True
+        else:
+            return False
+        
