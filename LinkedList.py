@@ -1,6 +1,19 @@
 ####API####
-# insert - add node to beginning (or end)
-# search - find and return a given node
-# remove - remove a given node
-# size - return number of nodes
-# is_empty - True if no nodes, False otherwise
+class Linked_list_demo:
+    def __init__(self):
+        pass
+    # insert - add node to beginning (or end)
+    def  insert():
+        pass
+    # search - find and return a given node
+    def search():
+        pass
+    # remove - remove a given node
+    def remove():
+        pass
+    # size - return number of nodes
+    def size():
+        pass
+    # is_empty - True if no nodes, False otherwise
+    def is_empty():
+        pass

@@ -1,8 +1,19 @@
 ####API####
-# push - add item to top
-# pop - remove and return item from top
-# peek - return top item
-# size - return number of items
-# is_empty - True if no items, False otherwise
-
-
+class Stack_demo:
+    def __init__(self,test_string):
+        self.test_string = "dufensmertz"
+    # push - add item to top
+    def push():
+        pass
+    # pop - remove and return item from top
+    def pop():
+        pass
+    # peek - return top item
+    def peek():
+        pass
+    # size - return number of items
+    def Size():
+        pass
+    # is_empty - True if no items, False otherwise
+    def is_empty():
+        pass
