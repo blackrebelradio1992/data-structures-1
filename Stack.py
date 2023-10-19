@@ -26,14 +26,16 @@ class Stack_demo:
         return len(self.str_items) == 0
         
         
-stack = Stack_demo()
+# stack = Stack_demo()
 
 # Test the stack operations
+txt = "rick"
+# x = txt.split("")
 
-
-stack.push("rick")
-# stack.push("banana")
-# stack.push("cherry")
+# print(x)
+stack.push(txt)
+stack.push("banana")
+stack.push("cherry")
 
 print("Is the stack empty?", stack.is_empty())
 print("Stack size:", stack.size())
